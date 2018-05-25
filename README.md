@@ -12,7 +12,15 @@
 | Move row      			| Audition pad + hold down & turn ▼▲ knob |
 | Delete row				| Hold Grid pad on row to delete + press Save/Delete |
 
-[link to old cheat sheet pdf](https://synthstrom.com/app/uploads/2018/03/Deluge-Popular_Commands.pdf)
+
+references
+
+v 2
+https://horche.demkontinuum.de/Deluge%20Cheat%20Sheet.pdf
+
+v1
+https://synthstrom.com/app/uploads/2018/03/Deluge-Popular_Commands.pdf
+
 
 ---
 
