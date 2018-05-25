@@ -14,12 +14,8 @@
 
 
 references
-
-v 2
-https://horche.demkontinuum.de/Deluge%20Cheat%20Sheet.pdf
-
-v1
-https://synthstrom.com/app/uploads/2018/03/Deluge-Popular_Commands.pdf
+v2 https://horche.demkontinuum.de/Deluge%20Cheat%20Sheet.pdf
+v1 https://synthstrom.com/app/uploads/2018/03/Deluge-Popular_Commands.pdf
 
 
 ---
